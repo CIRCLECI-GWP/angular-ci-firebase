@@ -1,5 +1,8 @@
 # CircleciAngularDemo
 
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/circleci-angular-demo/tree/main.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/circleci-angular-demo/tree/main)
+
+N/B
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
 ## Development server
